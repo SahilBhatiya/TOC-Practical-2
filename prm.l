@@ -3,8 +3,8 @@
 %}
 
 %%
-‘abc’ {printf("\nSingle Inverted Commas Input\n");}
-"abc" {printf("\nDouble Inverted Commas Input\n");}
+'abc' {printf("Single Inverted Commas Input\n");}
+"abc" {printf("Double Inverted Commas Input\n");}
 \n {}
 %%
 int main(){
